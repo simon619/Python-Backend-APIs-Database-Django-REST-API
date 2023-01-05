@@ -1,0 +1,441 @@
+{
+  "pokemon": [
+    {
+      "name": "Bulbasaur",
+      "type": "Grass",
+      "fast_move": "Tackle",
+      "charged_move": "Power_Whip",
+      "created": "2022-12-20 01:36:41",
+      "id": 1,
+      "weight_in_kg": 26.9
+    },
+    {
+      "name": "Ivysaur",
+      "type": "Grass",
+      "fast_move": "Vine_Whip",
+      "charged_move": "SolarBeam",
+      "created": "2022-12-20 01:36:41",
+      "id": 2,
+      "weight_in_kg": 13.0
+    },
+    {
+      "name": "Venusaur",
+      "type": "Glass",
+      "fast_move": "Razor_Leaf",
+      "charged_move": "SolarBeam",
+      "created": "2022-12-20 01:36:41",
+      "id": 3,
+      "weight_in_kg": 100.0
+    },
+    {
+      "name": "Charmander",
+      "type": "Fire",
+      "fast_move": "Ember",
+      "charged_move": "Flamethrower",
+      "created": "2022-12-20 01:36:41",
+      "id": 4,
+      "weight_in_kg": 3.97
+    },
+    {
+      "name": "Charmeleon",
+      "type": "Fire",
+      "fast_move": "Rage",
+      "charged_move": "Flamethrower",
+      "created": "2022-12-20 01:36:41",
+      "id": 5,
+      "weight_in_kg": 19.0
+    },
+    {
+      "name": "Charizard",
+      "type": "Fire",
+      "fast_move": "Fire_Spin",
+      "charged_move": "Fire_Blast",
+      "created": "2022-12-20 01:36:41",
+      "id": 6,
+      "weight_in_kg": 90.0
+    },
+    {
+      "name": "Squirtle",
+      "type": "Water",
+      "fast_move": "Tackle",
+      "charged_move": "Water_Pulse",
+      "created": "2022-12-20 01:36:41",
+      "id": 7,
+      "weight_in_kg": 9.0
+    },
+    {
+      "name": "Wartortle",
+      "type": "Water",
+      "fast_move": "Water_Gun",
+      "charged_move": "Hydro_Pump",
+      "created": "2022-12-20 01:36:41",
+      "id": 8,
+      "weight_in_kg": 22.5
+    },
+    {
+      "name": "Blastoise",
+      "type": "Water",
+      "fast_move": "Water_Gun",
+      "charged_move": "Flash_Cannon",
+      "created": "2022-12-20 01:36:41",
+      "id": 9,
+      "weight_in_kg": 85.5
+    },
+    {
+      "name": "Cyndaquil",
+      "type": "Fire",
+      "fast_move": "Tackle",
+      "charged_move": "Flame_Charge",
+      "created": "2022-12-20 01:36:41",
+      "id": 10,
+      "weight_in_kg": 7.9
+    },
+    {
+      "name": "Quilava",
+      "type": "Fire",
+      "fast_move": "Ember",
+      "charged_move": "Flamethrower",
+      "created": "2022-12-20 01:36:41",
+      "id": 11,
+      "weight_in_kg": 19.0
+    },
+    {
+      "name": "Typhlosion",
+      "type": "Fire",
+      "fast_move": "Ember",
+      "charged_move": "Overheat",
+      "created": "2022-12-20 01:36:41",
+      "id": 12,
+      "weight_in_kg": 79.5
+    },
+    {
+      "name": "Totodile",
+      "type": "Fire",
+      "fast_move": "Scratch",
+      "charged_move": "Water_Gun",
+      "created": "2022-12-20 01:36:41",
+      "id": 13,
+      "weight_in_kg": 9.5
+    },
+    {
+      "name": "Croconaw",
+      "type": "Fire",
+      "fast_move": "Scratch",
+      "charged_move": "Water_Pulse",
+      "created": "2022-12-20 01:36:41",
+      "id": 14,
+      "weight_in_kg": 25.0
+    },
+    {
+      "name": "Feraligatr",
+      "type": "Water",
+      "fast_move": "Waterfall",
+      "charged_move": "Hydro_Pump",
+      "created": "2022-12-20 01:36:41",
+      "id": 15,
+      "weight_in_kg": 88.8
+    },
+    {
+      "name": "Chikorita",
+      "type": "Grass",
+      "fast_move": "Razor_Leaf",
+      "charged_move": "Vine_Whip",
+      "created": "2022-12-20 01:36:41",
+      "id": 16,
+      "weight_in_kg": 6.4
+    },
+    {
+      "name": "Bayleef",
+      "type": "Grass",
+      "fast_move": "Hammer_In",
+      "charged_move": "Razor_Leaf",
+      "created": "2022-12-20 01:36:41",
+      "id": 17,
+      "weight_in_kg": 15.8
+    },
+    {
+      "name": "Meganium",
+      "type": "Grass",
+      "fast_move": "Seed_Powder",
+      "charged_move": "Solar_Beam",
+      "created": "2022-12-20 01:36:41",
+      "id": 18,
+      "weight_in_kg": 100.0
+    },
+    {
+      "name": "Rhyperior",
+      "type": "Ground",
+      "fast_move": "Mud_Slap",
+      "charged_move": "Earthquake",
+      "created": "2022-12-20 01:36:41",
+      "id": 19,
+      "weight_in_kg": 282.8
+    },
+    {
+      "name": "Dragonite",
+      "type": "Dragon",
+      "fast_move": "Dragon_Tail",
+      "charged_move": "Draco_Meteor",
+      "created": "2022-12-20 01:36:41",
+      "id": 20,
+      "weight_in_kg": 210.0
+    },
+    {
+      "name": "Tyranitar",
+      "type": "Rock",
+      "fast_move": "Iron_Tail",
+      "charged_move": "Crunch",
+      "created": "2022-12-20 01:36:41",
+      "id": 21,
+      "weight_in_kg": 202.0
+    },
+    {
+      "name": "Ursaluna",
+      "type": "Ground",
+      "fast_move": "Rock_Smash",
+      "charged_move": "High_Horsepower",
+      "created": "2022-12-20 01:36:41",
+      "id": 22,
+      "weight_in_kg": 290.0
+    },
+    {
+      "name": "Yveltal",
+      "type": "Dark",
+      "fast_move": "Gust",
+      "charged_move": "Focus_Blast",
+      "created": "2022-12-20 01:36:41",
+      "id": 23,
+      "weight_in_kg": 203.0
+    },
+    {
+      "name": "Xerneas",
+      "type": "Fairy",
+      "fast_move": "Tackle",
+      "charged_move": "Megahorn",
+      "created": "2022-12-20 01:36:41",
+      "id": 24,
+      "weight_in_kg": 215.0
+    },
+    {
+      "name": "Gengar",
+      "type": "Ghost",
+      "fast_move": "Hex",
+      "charged_move": "Shadow_Ball",
+      "created": "2022-12-20 01:36:41",
+      "id": 25,
+      "weight_in_kg": 40.5
+    },
+    {
+      "name": "Magnezone",
+      "type": "Electric",
+      "fast_move": "Charge_Beam",
+      "charged_move": "Wild_Charge",
+      "created": "2022-12-20 01:36:41",
+      "id": 26,
+      "weight_in_kg": 180.0
+    },
+    {
+      "name": "Gyrados",
+      "type": "Water",
+      "fast_move": "Waterfall",
+      "charged_move": "Hydro_Pump",
+      "created": "2022-12-20 01:36:41",
+      "id": 27,
+      "weight_in_kg": 235.0
+    },
+    {
+      "name": "Golisopod",
+      "type": "Water",
+      "fast_move": "Waterfall",
+      "charged_move": "X_Scissor",
+      "created": "2022-12-20 01:36:41",
+      "id": 28,
+      "weight_in_kg": 108.0
+    },
+    {
+      "name": "Salamence",
+      "type": "Dragon",
+      "fast_move": "Dragon_Tail",
+      "charged_move": "Draco_Meteor",
+      "created": "2022-12-20 01:36:41",
+      "id": 29,
+      "weight_in_kg": 102.6
+    },
+    {
+      "name": "Aggron",
+      "type": "Steel",
+      "fast_move": "Smack_Down",
+      "charged_move": "Heavy_Slam",
+      "created": "2022-12-20 01:36:41",
+      "id": 30,
+      "weight_in_kg": 360.0
+    },
+    {
+      "name": "Incineroar",
+      "type": "Fire",
+      "fast_move": "Fire_Fang",
+      "charged_move": "Flame_Charge",
+      "created": "2022-12-20 01:36:41",
+      "id": 31,
+      "weight_in_kg": 83.0
+    }
+  ],
+  "trainer": [
+    {
+      "trainer_name": "Simon_Abhijet_Biwas",
+      "team": 25,
+      "tainer_id": "Valor",
+      "pk_id": 1
+    },
+    {
+      "trainer_name": "Tanzim_Hossain",
+      "team": 20,
+      "tainer_id": "Mystic",
+      "pk_id": 2
+    },
+    {
+      "trainer_name": "Nahian_Rhythm",
+      "team": 21,
+      "tainer_id": "Mystic",
+      "pk_id": 3
+    },
+    {
+      "trainer_name": "Sakib_Beast",
+      "team": 26,
+      "tainer_id": "Valor",
+      "pk_id": 4
+    },
+    {
+      "trainer_name": "Maurizio_Di",
+      "team": 32,
+      "tainer_id": "Valor",
+      "pk_id": 5
+    },
+    {
+      "trainer_name": "Jesse_Powell",
+      "team": 26,
+      "tainer_id": "Mystic",
+      "pk_id": 6
+    },
+    {
+      "trainer_name": "Howard_Dillier",
+      "team": 35,
+      "tainer_id": "Valor",
+      "pk_id": 7
+    },
+    {
+      "trainer_name": "SarahGlnr",
+      "team": 27,
+      "tainer_id": "Valor",
+      "pk_id": 8
+    },
+    {
+      "trainer_name": "Halie_Hadden",
+      "team": 41,
+      "tainer_id": "Instinct",
+      "pk_id": 9
+    },
+    {
+      "trainer_name": "Alfredo_Sandoval",
+      "team": 23,
+      "tainer_id": "Valor",
+      "pk_id": 10
+    },
+    {
+      "trainer_name": "Lewis_cook",
+      "team": 27,
+      "tainer_id": "Instinct",
+      "pk_id": 11
+    },
+    {
+      "trainer_name": "Cinderella913",
+      "team": 29,
+      "tainer_id": "Mystic",
+      "pk_id": 12
+    },
+    {
+      "trainer_name": "Bryan_Luevanos",
+      "team": 28,
+      "tainer_id": "Mystic",
+      "pk_id": 13
+    },
+    {
+      "trainer_name": "Simon_Abhijet_Biwas",
+      "team": 25,
+      "tainer_id": "Valor",
+      "pk_id": 14
+    },
+    {
+      "trainer_name": "Tanzim_Hossain",
+      "team": 20,
+      "tainer_id": "Mystic",
+      "pk_id": 15
+    },
+    {
+      "trainer_name": "Nahian_Rhythm",
+      "team": 21,
+      "tainer_id": "Mystic",
+      "pk_id": 16
+    },
+    {
+      "trainer_name": "Sakib_Beast",
+      "team": 26,
+      "tainer_id": "Valor",
+      "pk_id": 17
+    },
+    {
+      "trainer_name": "Maurizio_Di",
+      "team": 32,
+      "tainer_id": "Valor",
+      "pk_id": 18
+    },
+    {
+      "trainer_name": "Jesse_Powell",
+      "team": 26,
+      "tainer_id": "Mystic",
+      "pk_id": 19
+    },
+    {
+      "trainer_name": "Howard_Dillier",
+      "team": 35,
+      "tainer_id": "Valor",
+      "pk_id": 20
+    },
+    {
+      "trainer_name": "SarahGlnr",
+      "team": 27,
+      "tainer_id": "Valor",
+      "pk_id": 21
+    },
+    {
+      "trainer_name": "Halie_Hadden",
+      "team": 41,
+      "tainer_id": "Instinct",
+      "pk_id": 22
+    },
+    {
+      "trainer_name": "Alfredo_Sandoval",
+      "team": 23,
+      "tainer_id": "Valor",
+      "pk_id": 23
+    },
+    {
+      "trainer_name": "Lewis_cook",
+      "team": 27,
+      "tainer_id": "Instinct",
+      "pk_id": 24
+    },
+    {
+      "trainer_name": "Cinderella913",
+      "team": 29,
+      "tainer_id": "Mystic",
+      "pk_id": 25
+    },
+    {
+      "trainer_name": "Bryan_Luevanos",
+      "team": 28,
+      "tainer_id": "Mystic",
+      "pk_id": 26
+    }
+  ]
+}
